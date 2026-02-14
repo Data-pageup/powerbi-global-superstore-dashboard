@@ -1,7 +1,7 @@
-# 🌍 Global Superstore Sales & Profit Dashboard (Power BI)
+#  Global Superstore Sales & Profit Dashboard (Power BI)
 ### Pls refer the pdf for further insights.
 
-## 📊 Project Overview
+##  Project Overview
 
 This Power BI dashboard analyzes global sales data from the Global Superstore dataset.  
 The objective was to explore sales performance, profitability, customer segments, and regional trends using different visualization techniques.
@@ -20,9 +20,9 @@ The project focuses on applying core Power BI visuals such as:
 
 ---
 
-## 🎯 Business Questions Explored
+##  Business Questions Explored
 
-### 📌 Sales & Category Analysis
+###  Sales & Category Analysis
 1. Which category generates the highest sales?
 2. How do categories contribute to total sales growth over time?
 3. Compare sales by category across different customer segments.
@@ -39,7 +39,7 @@ The project focuses on applying core Power BI visuals such as:
 
 ---
 
-### 📌 Trend Analysis
+###  Trend Analysis
 8. How are sales trending over time?
 9. Is profit increasing yearly?
 10. Compare sales and profit over time.
@@ -47,26 +47,26 @@ The project focuses on applying core Power BI visuals such as:
 
 ---
 
-### 📌 Customer Segment Analysis
+###  Customer Segment Analysis
 11. What is the sales distribution by segment?
 12. Which segment contributes the most to overall profitability?
 
 ---
 
-### 📌 Shipping & Order Analysis
+###  Shipping & Order Analysis
 13. How do shipping modes impact sales, quantity, and profit?
 14. How does order priority relate to total sales and profit?
 
 ---
 <img width="1046" height="585" alt="image" src="https://github.com/user-attachments/assets/4cc2f61b-1317-49f4-b557-6747a68b8d43" />
 
-### 📌 Discount & Profitability Analysis
+###  Discount & Profitability Analysis
 15. How does discount affect profit and sales?
 16. Is there a relationship between discount levels and profit reduction?
 
 ---
 
-### 📌 Correlation Analysis
+###  Correlation Analysis
 17. What is the relationship between profit and quantity?
 18. Do higher sales always result in higher profit?
 
@@ -83,8 +83,7 @@ The project focuses on applying core Power BI visuals such as:
 
 ---
 
-## 🛠 Tools & Skills Used
-
+##  Tools & Skills Used
 - Power BI
 - Data Cleaning & Transformation
 - Data Modeling
